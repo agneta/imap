@@ -1,6 +1,6 @@
 {
   "name": "@agneta/imap",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "IMAP server from wildduck",
   "main": "main",
   "scripts": {},
